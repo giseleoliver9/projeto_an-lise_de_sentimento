@@ -1,4 +1,4 @@
-# 🧠 Análise de Sentimentos em Avaliações de Produtos
+# Análise de Sentimentos em Avaliações de Produtos
 ![Nuvem de Palavras](https://github.com/giseleoliver9/projeto_an-lise_de_sentimento/blob/main/NLPWordCloud-1.png)
 
 Este projeto faz parte da disciplina **Processamento de Linguagem Natural (NLP) e Reconhecimento de Padrões** do curso de especialização em Inteligência Artificial e Data Science pela FETES.
